@@ -1,4 +1,4 @@
 Primeira alteração. 
-		Professor Alexandre é formado em engenharia de software e gestão de projetos e tecnologia de informação, tem 2 filhos é casado e é apaixonado por tecnologia e jogos,
-	é professor de Front end na fiap e está dando aula de git e git hub para a turma 1TDSPJ no dia 12/03/25, ele já estudou na Faculdade de Informática Paulista e na FGV
-	já trabalhu na FECAP, FIAP e Impacta como instrutor e professor.
+		Professor Alexandre é formado em engenharia de software e gestão de projetos e tecnologia de informação, tem 2 filhos é casado e é apaixonado por tecnologia e jogos.
+	É professor de Front end na fiap e está dando aula de git e git hub para a turma 1TDSPJ no dia 12/03/25, ele já estudou na Faculdade de Informática Paulista e na FGV
+	já trabalhou na FECAP, FIAP e Impacta como instrutor e professor.
